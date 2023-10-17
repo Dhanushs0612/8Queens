@@ -13,7 +13,7 @@
 }
 body
 {
-    background-image: url("/background15.jpg");
+    background-image: url("background15.jpg");
     background-position: center;
     background-size: 130%;
 }
